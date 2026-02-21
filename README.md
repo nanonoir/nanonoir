@@ -39,7 +39,7 @@ delivering clean, maintainable, and production-ready software.
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanonoir&layout=compact&theme=github_dark)
 
 ---
 
