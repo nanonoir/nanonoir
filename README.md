@@ -4,7 +4,7 @@
   Saludos, Nahuel 🫡
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0C4A6E&height=120&section=header" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F4F4F4&height=120&section=header" alt="header"/>
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 </h1>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=4500&pause=500&color=0C4A6E&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+React+Native;Node.js+%7C+Express+%7C+Nest.js+%7C+PostgreSQL;Docker+%7C+Git+%7C+VPS+Deployment" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=4500&pause=500&color=F4F4F4&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+React+Native;Node.js+%7C+Express+%7C+Nest.js+%7C+PostgreSQL;Docker+%7C+Git+%7C+CI/CD" alt="Typing SVG" />
 </a>
 
 </div>
@@ -35,7 +35,7 @@ I mainly work with **React, Next.js, React Native, Node.js, Express, NestJS, Pos
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://noirnahuel.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.noirnahuel.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-0C4A6E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
@@ -61,7 +61,7 @@ I mainly work with **React, Next.js, React Native, Node.js, Express, NestJS, Pos
 <h3 align="center">Frontend</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,css,tailwind&perline=7" />
 </p>
 
 </td>
@@ -82,7 +82,7 @@ I mainly work with **React, Next.js, React Native, Node.js, Express, NestJS, Pos
 <h3 align="center">DevOps & Deployment</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,debian,linux,nginx,git,github&perline=7" />
+  <img src="https://skillicons.dev/icons?i=docker,debian,linux,nginx,git,bash,github&perline=7" />
 </p>
 
 </td>
@@ -91,7 +91,7 @@ I mainly work with **React, Next.js, React Native, Node.js, Express, NestJS, Pos
 <h3 align="center">Tools & Workflow</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,notion,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=vscode,vitest,jest,postman,notion,figma&perline=7" />
 </p>
 
 <p>
@@ -133,11 +133,11 @@ I mainly work with **React, Next.js, React Native, Node.js, Express, NestJS, Pos
 <h2 align="center">Resume & Curriculum Vitae</h2>
 
 <p align="center">
-  <a href="https://noirnahuel.vercel.app/CV_Noir_Nahuel_Nicolas_EN.pdf" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.noirnahuel.com/Noir_Nahuel_Nicolas_EN.pdf" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/View%20Resume%20(EN)-0C4A6E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View Resume EN"/>
   </a>
   &nbsp;
-  <a href="https://noirnahuel.vercel.app/CV_Noir_Nahuel_Nicolas_ES.pdf" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.noirnahuel.com/Noir_Nahuel_Nicolas_ES.pdf" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Ver%20Resumen%20(ES)-38BDF8?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Ver Resumen ES"/>
   </a>
 </p>
